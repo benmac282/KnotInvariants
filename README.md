@@ -36,4 +36,6 @@ ___Knot Drawing Conventions___
 5. Specifically, if two endpoints are closest to each other
    they must be part of the same under-arc.
 
-
+___TODO___
+1. Add a GUI for ease of use.
+2. Add ability to calculate more invariants.
