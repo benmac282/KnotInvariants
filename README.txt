@@ -11,6 +11,7 @@ ___How To Run___
 3. Enter the name of a .png or .jpg image
    file contained within the "...\Project\TestImages"
    directory.
+4. This image must be drawn in MS Paint with the size 819 x 460
 
 ___Output Information___
 The program should display:
